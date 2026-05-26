@@ -119,5 +119,11 @@ true
 ---
 
 ## License
-
+Contract ID: CC3MEPXY5RTAEMFC3BR3DJANMWPWLHKERHSN6T3ZRKXECPDOQTULIGY3
 MIT License
+
+## Stellar Expert Link
+https://stellar.expert/explorer/testnet/contract/CC3MEPXY5RTAEMFC3BR3DJANMWPWLHKERHSN6T3ZRKXECPDOQTULIGY3
+
+## VeriBadge Photo
+![VeriBadge Photo](assets/VeriBadge_Photo.png)
